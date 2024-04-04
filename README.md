@@ -2,6 +2,8 @@
 - 📚 Primeiro semestre faculdade de ADS
 - ☕ Estudando Java
 - 👦🏻 Ele/Dele
+  
+
 ![Brenouws GitHub stats](https://github-readme-stats.vercel.app/api?username=Brenouws&show_icons=true&theme=radical&count_private=true)
 
 <div> 
